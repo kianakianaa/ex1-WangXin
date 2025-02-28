@@ -14,7 +14,7 @@ Follow the steps below to set up the project locally:
   ```bash
   cd ex1-WangXin.git
 ```
-3. **(Optional) Set up a virtual environment and activate:**
+3. **(Optional) Set up a virtual environment and activate**
 4. **Run the script:**
    ```python
    python checkerboard.py
