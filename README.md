@@ -16,7 +16,7 @@ Follow the steps below to set up the project locally:
 ```
 3. **(Optional) Set up a virtual environment and activate**
 4. **Run the script:**
-   ```python
+   ```bash
    python checkerboard.py
    ```
 
