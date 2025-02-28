@@ -10,9 +10,9 @@ Follow the steps below to set up the project locally:
    git clone https://github.com/kianakianaa/ex1-WangXin.git
    ```
 2. **Navigate to the project directory:**
-  
-  ```bash
-   cd ex1-WangXin
+
+   ```bash
+   cs ex1-WangXin
    ```
 3. **(Optional) Set up a virtual environment and activate**
 4. **Run the script:**
